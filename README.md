@@ -1,8 +1,7 @@
 # Antima Mishra's Portfolio
 
-<p align="center">
-  <img src="./images/ANTIMA.jpg" width="200" height="200" style="border-radius:50%; border:4px solid #663399;" alt="Antima Mishra">
-</p>
+ ![ANTIMA](https://github.com/user-attachments/assets/e0472fc6-0380-4b69-b96c-27f21b9efa95)
+
 
 <h1 align="center">Hi there, I'm Antima Mishra 👋</h1>
 
@@ -12,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antima-mishra-6483ba252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/antima123-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/antima121-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://x.com/AntimaMish92846" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
@@ -54,7 +53,7 @@ Here are some of the technologies and tools I work with. I'm always eager to lea
 
 This repository contains the source code for my personal portfolio website.
 
-*   **Live Site:** You can view the live portfolio at [your-github-username.github.io/Antima-Portfolio/](https://antima121-bit.github.io/Antima-Portfolio/)
+*   **Live Site:** You can view the live portfolio at [https://antima-portfolio-coral.vercel.app/](https://antima121-bit.github.io/Antima-Portfolio/)
 *   **Built With:** The site is built with plain HTML, CSS, and a touch of JavaScript.
 *   **Features:**
     *   A clean, responsive design that works on all devices.
